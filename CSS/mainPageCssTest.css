@@ -1,0 +1,106 @@
+.polozkaAuto {
+    display: inline-block;
+    position: relative;
+    /*width: auto;*/
+    /*height: auto;*/
+
+}
+
+.polozka {
+    width: 200px;
+    height: 160px;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    background-color: cadetblue;
+    background-image: url("../img/golf mk52.png");
+}
+
+.shInline {
+    display: inline;
+    position: relative;
+    width: 50px;
+    height: 50px;
+}
+
+.carSize {
+    width: 50%;
+    height: 50%;
+    display: inline-block;
+}
+
+.sivi{
+    background-color: cadetblue;
+    display: inline-block;
+    /*align-items: center;*/
+    /*justify-content: center;*/
+overflow: hidden;
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin: 5px;
+}
+.sivi2{
+    background-color: cadetblue;
+    display: inline-block;
+    /*align-items: center;*/
+    /*justify-content: center;*/
+/*overflow: hidden;*/
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin: 5px;
+}
+.sivi img{
+    width: 100%;
+    height: 100%;
+}.sivi2 img{
+    width: 100%;
+    height: 100%;
+}
+
+.sivi:hover{
+    position: relative;
+    top: -10px;
+}
+
+.test2{
+    background-color: green;
+    /*align-items: center;*/
+    /*width: auto;*/
+    /*height: auto;*/
+    border: 2px solid white;
+    /*margin: 1px;*/
+    /*padding: 5px;*/
+}
+/*.test2 img {*/
+/*    max-width: 100%;*/
+/*    height: auto;*/
+/*    align-items: center;*/
+/*    align-content: center;*/
+/*    !*border-color:maroon;*!*/
+
+/*}*/
+.test2:hover{
+    position: relative;
+    top: -10px;
+
+}
+
+.black {
+    background-color: black;
+}
+.img-thumbnail{
+    background-color: transparent;
+    border: 0;
+}
+
+.thumbnail:hover {
+    position: relative;
+    top: -10px;
+    /*border: 2px solid green;*/
+
+}
+
+

@@ -1,0 +1,18 @@
+body{
+    background-image: url("../img/leaves-pattern.png");
+}
+
+.imgBox:hover {
+    position: relative;
+    top: -20px;
+}
+.imgBox img{
+    width: 100%;
+}
+div p{
+    border-style: dashed;
+    border-radius: 8px;
+    border-width: 2px;
+    padding: 2px;
+}
+

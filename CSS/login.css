@@ -24,11 +24,6 @@ body {
     padding: 20px;
     background-image: linear-gradient(to top left,#66e0ff,#e6faff);
     /*border-radius: 20px;*/
-    border-radius: 15px 50px 30px
-}
-
-
-.borderFormElemet {
-    border-radius: 20px;
+    border-radius: 15px 50px 30px;
 }
 
