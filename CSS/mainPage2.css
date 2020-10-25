@@ -12,7 +12,26 @@ body{
 div p{
     border-style: dashed;
     border-radius: 8px;
-    border-width: 2px;
+    border-width: 1px;
     padding: 2px;
+    font-size: 15px;
 }
+
+.poz1{
+    float: left;
+}
+.poz2{
+    float: right;
+}
+
+.table td,th{
+    text-align: center;
+}
+.card{
+    border-radius: 20px;
+}
+.card button{
+    border-radius: 10px;
+}
+
 

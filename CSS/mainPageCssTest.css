@@ -103,4 +103,24 @@ overflow: hidden;
 
 }
 
+/*.pozicaj{*/
+/*    text-align: center;*/
+/*}*/
+/*.pozicaj i{*/
+/*    float: left;*/
+/*}*/
+
+.poz1{
+    float: left;
+}
+.poz2{
+    float: right;
+}
+
+.table td,th{
+    text-align: center;
+}
+
+
+
 
